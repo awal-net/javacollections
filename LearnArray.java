@@ -1,7 +1,7 @@
 package learn.javacollection.edu;
 
 public class LearnArray {
-	Integer[] student= new Integer[10];
+	Integer[] student= new Integer[12];
 	
 	public void addStudent(Integer[] stdIds) {
 		for(int i=0; i< stdIds.length; i++) {
